@@ -44,7 +44,7 @@ Lets Connect
 
 ## DASHBOARD:
     
-  '![alt text](Store DashBoard.png)'
+![Alt Text](Store DashBoard.png)
 
 
 ## METHODOLOGY:
