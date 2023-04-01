@@ -44,7 +44,7 @@ Lets Connect
 
 ## DASHBOARD:
     
-  ![alt text](C:\Users\hp\Downloads\Store DashBoard.png)
+  '![alt text](Store DashBoard.png)'
 
 
 ## METHODOLOGY:
