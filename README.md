@@ -26,7 +26,7 @@ Lets Connect
     iv) Data Analysis / Bussiness Case Study Analysis.
 
     
-    ## DATA VISUALIZATION: 
+## DATA VISUALIZATION: 
 
 
     1) Compare the sales and orders using combo Chart.
