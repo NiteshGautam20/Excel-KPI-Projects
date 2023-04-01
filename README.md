@@ -44,7 +44,7 @@ Lets Connect
 
 ## DASHBOARD:
     
-![Alt Text](Store DashBoard.png)
+![Alt Text](https://github.com/NiteshGautam20/Excel-KPI-Projects/blob/main/Store%20DashBoard.png)
 
 
 ## METHODOLOGY:
