@@ -1,4 +1,5 @@
 # Exel-KPI-Projects
+![KPI](KPI.png)
  
 
 ## Project Name - Store-Data-Analysis
