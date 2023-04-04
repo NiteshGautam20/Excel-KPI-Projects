@@ -1,7 +1,7 @@
 
 ## Project Name - Store-Data-Analysis
 
-[Srore](Store1.png)
+![Store](Store1.png)
 
 ## LINKS: 
 
