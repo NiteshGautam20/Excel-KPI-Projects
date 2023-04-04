@@ -27,7 +27,7 @@ Lets Connect
 ## Challenge Case Studies:
 
 
-[•🛒Project #1 -Store Data Analysis](https://github.com/NiteshGautam20/Excel-KPI-Projects/tree/main/Store%20Data%20Analysis) 
+[• 🛒 Project #1 -Store Data Analysis](https://github.com/NiteshGautam20/Excel-KPI-Projects/tree/main/Store%20Data%20Analysis) 
 
 
 
