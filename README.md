@@ -1,4 +1,4 @@
-# Exel-KPI-Projects
+# Excel-KPI-Projects
 ![KPI](KPI.png)
  
 
@@ -24,7 +24,7 @@ Lets Connect
     iii) Data Processing 
     iv) Data Analysis / Bussiness Case Study Analysis
 
-## Challenge Case Studies:
+##  Projects:
 
 
 [• 🛒 Project #1 -Store Data Analysis](https://github.com/NiteshGautam20/Excel-KPI-Projects/tree/main/Store%20Data%20Analysis) 
