@@ -1,8 +1,7 @@
-# Exel-KPI-Projects
-![KPI](KPI.png)
- 
 
 ## Project Name - Store-Data-Analysis
+
+[Srore](Store1.png)
 
 ## LINKS: 
 
